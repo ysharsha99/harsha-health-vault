@@ -1,0 +1,1 @@
+{"name":"harsha-health-vault","private":true,"version":"1.0.0","type":"module","scripts":{"build":"vite","dev":"vite"},"dependencies":{"@supabase/supabase-js":"latest","vite":"latest"}}
